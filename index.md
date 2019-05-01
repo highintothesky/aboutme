@@ -2,7 +2,8 @@
 
 My name is Niels, and I program from time to time, mostly in Python.
 
-I use this space to showcase some of the projects I've done, some professionally, and some as a hobby.
+I use this space to showcase some of the projects I've done, some professionally, and some as a hobby. Most of it is hosted in private repositories, but I hope to provide some insight into what I like to do through this page. You can contact me on gmail.
+
 
 
 **KomKom Admin**
@@ -28,10 +29,19 @@ I've built a small robot, with a Raspberry Pi and an Arduino at the center. It s
 <center><a href="https://raw.githubusercontent.com/highintothesky/aboutme/master/screenshots/robogui1.jpg"><img src="https://raw.githubusercontent.com/highintothesky/aboutme/master/screenshots/robogui1.jpg" height="586" width="854"></a></center>
 
 **PirateFlix**
+
 A torrent streaming GUI, using [PeerFlix](https://github.com/mafintosh/peerflix) and [TkInter](https://wiki.python.org/moin/TkInter). Used to search and stream video.
 
 <center><a href="https://raw.githubusercontent.com/highintothesky/aboutme/master/screenshots/pirateflix.png"><img src="https://raw.githubusercontent.com/highintothesky/aboutme/master/screenshots/pirateflix.png" height="466" width="854"></a></center>
 
 **3D Data Visualization (YouTube)**
+
 Using static flow mixer data
+
 <center><a href="https://www.youtube.com/watch?v=EivqvCdqS30"><img src="https://img.youtube.com/vi/EivqvCdqS30/0.jpg" ></a></center>
+<<<<<<< HEAD
+=======
+
+
+¯\\\_(ツ)_/¯
+>>>>>>> 009f721f13b9273dfe77b46243a4fe65e90ab58f
